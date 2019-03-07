@@ -2,6 +2,22 @@ html {
   font-family: "Work Sans", sans-serif;
 }
 
-h1 {
+.display {
   font-family: "Playfair Display", serif;
+}
+
+.grey {
+  background-color: #f2f2f2;
+}
+
+.blush {
+  background-color: #eecfc8;
+}
+
+.height {
+  min-height: 50em;
+}
+
+.script {
+  font-family: "Sacramento", cursive;
 }
