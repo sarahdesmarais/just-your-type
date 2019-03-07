@@ -2,10 +2,6 @@ html {
   font-family: "Work Sans", sans-serif;
 }
 
-.display {
-  font-family: "Playfair Display", serif;
-}
-
 .grey {
   background-color: #f2f2f2;
 }
@@ -19,5 +15,5 @@ html {
 }
 
 .script {
-  font-family: "Sacramento", cursive;
+  font-family: Sacramento, cursive;
 }
